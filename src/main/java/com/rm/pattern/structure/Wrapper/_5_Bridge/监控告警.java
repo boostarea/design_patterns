@@ -1,9 +1,9 @@
 package com.rm.pattern.structure.Wrapper._5_Bridge;
 
-import java.io.BufferedInputStream;
 import java.util.List;
 
 /**
+ * 一组类与另一组类组合，独立维度扩展
  * 根据不同的告警级别，触发不同类型的告警
  * -- 通过配置动态指定对应关系
  * @author chenrong

@@ -16,6 +16,7 @@ public class 继承方式 {
             this.metricsCollector = new 实现相同接口.MetricsCollector();
         }
 
+
         public 实现相同接口.UserVo login(String telephone, String password) {
             long startTimestamp = System.currentTimeMillis();
 

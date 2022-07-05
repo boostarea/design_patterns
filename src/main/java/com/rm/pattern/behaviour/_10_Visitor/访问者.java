@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO
+ * Single Dispatch 来模拟 Double Dispatch
  *
  * @author chenrong
  * @version 1.0

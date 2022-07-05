@@ -59,7 +59,7 @@ public class SingleDispatch的局限 {
         Extractor extractor = new Extractor();
         List<ResourceFile> resourceFiles = listAllResourceFiles(args[0]);
         for (ResourceFile resourceFile : resourceFiles) {
-            extractor.extract2txt(resourceFile);
+            // extractor.extract2txt(resourceFile);
         }
     }
 
